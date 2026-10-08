@@ -4,7 +4,7 @@ I am 23 years old, I am from Ukraine 🇺🇦. I am senior security consultant a
 
 I am always open to partnerships and interesting projects.
 
-  [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3%"/>](https://twitter.com/shabarkin)
+  [<img src="https://img.icons8.com/color/48/000000/x.png" width="3%"/>](https://x.com/shabarkin)
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3%"/>](https://www.linkedin.com/in/pavelshabarkin/)
   [<img src="https://img.icons8.com/ios/48/000000/notion.png" width="3%"/> ](https://shabarkin.notion.site)
   [<img src="https://img.icons8.com/sf-regular-filled/50/000000/medium-logo.png" width="3.2%"/>](https://shabarkin.medium.com
@@ -13,6 +13,3 @@ I am always open to partnerships and interesting projects.
   <a href="mailto:poulshabarkin@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3%"/> </a>
   
 ---
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/shabarkin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
